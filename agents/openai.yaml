@@ -1,0 +1,4 @@
+interface:
+  display_name: "BlockFilm Filmmaking"
+  short_description: "Direct expressive shorts with the approved BlockFilm cast"
+  default_prompt: "Use $blockfilm-filmmaking to create or improve a BlockFilm short with the approved cast and reference-informed staging."
